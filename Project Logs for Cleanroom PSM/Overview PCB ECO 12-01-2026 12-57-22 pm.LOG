@@ -1,0 +1,250 @@
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found LED_0603_1608M_0.80mm
+Add Component: Footprint Not Found LED_0603_1608M_0.80mm
+Add Component: Footprint Not Found LED_0603_1608M_0.80mm
+Add Component: Footprint Not Found LED_0603_1608M_0.80mm
+Add Component: Footprint Not Found LED_0603_1608M_0.80mm
+Add Component: Footprint Not Found LED_0603_1608M_0.80mm
+Add Component: Footprint Not Found LED_0603_1608M_0.80mm
+Add Component: Footprint Not Found LED_0603_1608M_0.80mm
+Add Component: Footprint Not Found LED_0603_1608M_0.80mm
+Add Component: Footprint Not Found LED_0603_1608M_0.80mm
+Add Component: Footprint Not Found LED_0603_1608M_0.80mm
+Add Component: Footprint Not Found SOT23-3N-1.15mm
+Add Component: Footprint Not Found SOT23-3N-1.15mm
+Add Component: Footprint Not Found SOT23-3N-1.15mm
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Added Component: Designator=SW?(ANT11SF1CQE)
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "ANT11SF1CQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "28 VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "2449-ANT11SF1CQE-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(ANT11SF1CQE)
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "ANT11SF1CQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "28 VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "2449-ANT11SF1CQE-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(ANT11SF1CQE)
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "ANT11SF1CQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "28 VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "2449-ANT11SF1CQE-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(ANT11SF1CQE)
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "ANT11SF1CQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "28 VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "2449-ANT11SF1CQE-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(ANT11SF1CQE)
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "ANT11SF1CQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "28 VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "2449-ANT11SF1CQE-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(ANT11SF1CQE)
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "ANT11SF1CQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "28 VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "2449-ANT11SF1CQE-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(ANT11SF1CQE)
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "ANT11SF1CQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "28 VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "2449-ANT11SF1CQE-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(ANT11SF1CQE)
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "ANT11SF1CQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "28 VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "2449-ANT11SF1CQE-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT-583-2.1mmx1.6mmBody-0.6mm
+Add Component: Footprint Not Found SOT-583-2.1mmx1.6mmBody-0.6mm
+Add Component: Footprint Not Found SOT-583-2.1mmx1.6mmBody-0.6mm
+Added Pin To Net: NetName=3V3_BUS Pin=SW?-1
+Added Net: Name=3V3_BUS
+Added Net: Name=3V3_EN
+Added Pin To Net: NetName=3V3_IN Pin=SW?-1
+Added Net: Name=3V3_IN
+Added Pin To Net: NetName=3V3_LUP_BUS Pin=SW?-1
+Added Net: Name=3V3_LUP_BUS
+Added Pin To Net: NetName=3V3_OUT Pin=SW?-2
+Added Pin To Net: NetName=3V3_OUT Pin=SW?-2
+Added Net: Name=3V3_OUT
+Added Net: Name=3V3_PG
+Added Pin To Net: NetName=5V_BUS Pin=SW?-1
+Added Net: Name=5V_BUS
+Added Net: Name=5V_EN
+Added Pin To Net: NetName=5V_IN Pin=SW?-1
+Added Net: Name=5V_IN
+Added Pin To Net: NetName=5V_LUP_BUS Pin=SW?-1
+Added Net: Name=5V_LUP_BUS
+Added Pin To Net: NetName=5V_OUT Pin=SW?-2
+Added Pin To Net: NetName=5V_OUT Pin=SW?-2
+Added Net: Name=5V_OUT
+Added Net: Name=5V_PG
+Added Pin To Net: NetName=8V_BUS Pin=SW?-1
+Added Net: Name=8V_BUS
+Added Net: Name=8V_EN
+Added Pin To Net: NetName=8V_IN Pin=SW?-1
+Added Net: Name=8V_IN
+Added Pin To Net: NetName=8V_OUT Pin=SW?-2
+Added Net: Name=8V_OUT
+Added Net: Name=8V_PG
+Added Pin To Net: NetName=GND Pin=SW?-3
+Added Pin To Net: NetName=GND Pin=SW?-3
+Added Pin To Net: NetName=GND Pin=SW?-3
+Added Net: Name=GND
+Added Net: Name=NetC?_2
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Added Net: Name=NetD?_A
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Add Net: Net with name "NetD?_A" already exists
+Added Net: Name=NetD?_C
+Add Net: Net with name "NetD?_C" already exists
+Add Net: Net with name "NetD?_C" already exists
+Added Pin To Net: NetName=NetR?_1 Pin=SW?-2
+Added Net: Name=NetR?_1
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Add Net: Net with name "NetR?_1" already exists
+Added Class: Name=Overview
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_9
+Added Rule: Name=Schematic Supply Nets_10
+Added Rule: Name=Schematic Supply Nets_11

@@ -1,0 +1,736 @@
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0805_2012M-70N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Add Component: Footprint Not Found CAPACITOR_0402_1005M_55N
+Added Component: Designator=D1(LED_0603_1608M_0.80mm)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "5V Reverse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-30°C ~ 85°C"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED_0603_1608M_0.80mm)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "5V Reverse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-30°C ~ 85°C"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED_0603_1608M_0.80mm)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "5V Reverse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-30°C ~ 85°C"; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED_0603_1608M_0.80mm)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "5V Reverse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-30°C ~ 85°C"; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED_0603_1608M_0.80mm)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "5V Reverse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-30°C ~ 85°C"; VariantName = "[No Variations]"
+Added Component: Designator=D6(LED_0603_1608M_0.80mm)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "5V Reverse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-30°C ~ 85°C"; VariantName = "[No Variations]"
+Added Component: Designator=D7(LED_0603_1608M_0.80mm)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "5V Reverse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-30°C ~ 85°C"; VariantName = "[No Variations]"
+Added Component: Designator=D8(LED_0603_1608M_0.80mm)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "5V Reverse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-30°C ~ 85°C"; VariantName = "[No Variations]"
+Added Component: Designator=D9(LED_0603_1608M_0.80mm)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "5V Reverse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-30°C ~ 85°C"; VariantName = "[No Variations]"
+Added Component: Designator=D10(LED_0603_1608M_0.80mm)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "5V Reverse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-30°C ~ 85°C"; VariantName = "[No Variations]"
+Added Component: Designator=D?(LED_0603_1608M_0.80mm)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "5V Reverse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-30°C ~ 85°C"; VariantName = "[No Variations]"
+Added Component: Designator=L1(IND_SPM6530T-1R5M100)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SPM6530T-1R5M100/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "445-3881-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SPM6530T-1R5M100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "NON STANDARD-2 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SPM6530T-1R5M100/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SPM6530T-1R5M100/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L2(IND_SPM6530T-1R5M100)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SPM6530T-1R5M100/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "445-3881-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SPM6530T-1R5M100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "NON STANDARD-2 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SPM6530T-1R5M100/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SPM6530T-1R5M100/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT23-3N-1.15mm)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "MMBT619"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "350mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 Vce"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "4786-MMBT619CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-55°C ~ 150°C (TJ)"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT23-3N-1.15mm)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "MMBT619"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "350mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 Vce"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "4786-MMBT619CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-55°C ~ 150°C (TJ)"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT23-3N-1.15mm)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "MMBT619"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "350mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50 Vce"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "4786-MMBT619CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-55°C ~ 150°C (TJ)"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Add Component: Footprint Not Found RESISTOR_0402_1005M_37N
+Added Component: Designator=R37(RESISTOR_0402_1005M_37N)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E Series"; Value = "E24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Range"; Value = "1 ~ 20M"; VariantName = "[No Variations]"
+Added Component: Designator=R38(RESISTOR_0402_1005M_37N)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E Series"; Value = "E24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Range"; Value = "1 ~ 20M"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RESISTOR_0402_1005M_37N)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E Series"; Value = "E24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Range"; Value = "1 ~ 20M"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RESISTOR_0402_1005M_37N)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E Series"; Value = "E24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Range"; Value = "1 ~ 20M"; VariantName = "[No Variations]"
+Added Component: Designator=R41(RESISTOR_0402_1005M_37N)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E Series"; Value = "E24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Range"; Value = "1 ~ 20M"; VariantName = "[No Variations]"
+Added Component: Designator=R42(RESISTOR_0402_1005M_37N)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E Series"; Value = "E24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Range"; Value = "1 ~ 20M"; VariantName = "[No Variations]"
+Added Component: Designator=R43(RESISTOR_0402_1005M_37N)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E Series"; Value = "E24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Range"; Value = "1 ~ 20M"; VariantName = "[No Variations]"
+Added Component: Designator=R44(RESISTOR_0402_1005M_37N)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E Series"; Value = "E24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Range"; Value = "1 ~ 20M"; VariantName = "[No Variations]"
+Added Component: Designator=R45(RESISTOR_0402_1005M_37N)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E Series"; Value = "E24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Range"; Value = "1 ~ 20M"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESISTOR_0402_1005M_37N)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E Series"; Value = "E24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Range"; Value = "1 ~ 20M"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESISTOR_0402_1005M_37N)
+Add component (AddParameter): Name = "APSS Standard Part"; Value = "APSS Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E Series"; Value = "E24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value Range"; Value = "1 ~ 20M"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(ANT11SF1CQE)
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "ANT11SF1CQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "28 VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "2449-ANT11SF1CQE-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(ANT11SF1CQE)
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "ANT11SF1CQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "28 VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "2449-ANT11SF1CQE-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(ANT11SF1CQE)
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "ANT11SF1CQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "28 VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "2449-ANT11SF1CQE-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(ANT11SF1CQE)
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "ANT11SF1CQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "28 VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "2449-ANT11SF1CQE-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Added Component: Designator=SW5(ANT11SF1CQE)
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "ANT11SF1CQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "28 VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "2449-ANT11SF1CQE-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(ANT11SF1CQE)
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "ANT11SF1CQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "28 VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "2449-ANT11SF1CQE-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(ANT11SF1CQE)
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "ANT11SF1CQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "28 VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "2449-ANT11SF1CQE-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(ANT11SF1CQE)
+Add component (AddParameter): Name = "Circuit"; Value = "SPDT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF Part No."; Value = "ANT11SF1CQE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "28 VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1 Part No."; Value = "2449-ANT11SF1CQE-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2 Part No."; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Range"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT-583-2.1mmx1.6mmBody-0.6mm
+Add Component: Footprint Not Found SOT-583-2.1mmx1.6mmBody-0.6mm
+Add Component: Footprint Not Found SOT-583-2.1mmx1.6mmBody-0.6mm
+Added Pin To Net: NetName=3V3_BUS Pin=R37-2
+Added Pin To Net: NetName=3V3_BUS Pin=SW1-1
+Added Net: Name=3V3_BUS
+Added Pin To Net: NetName=3V3_EN Pin=R42-2
+Added Net: Name=3V3_EN
+Added Pin To Net: NetName=3V3_IN Pin=SW?-1
+Added Net: Name=3V3_IN
+Added Pin To Net: NetName=3V3_LUP_BUS Pin=R38-2
+Added Pin To Net: NetName=3V3_LUP_BUS Pin=SW2-1
+Added Net: Name=3V3_LUP_BUS
+Added Pin To Net: NetName=3V3_OUT Pin=L1-2
+Added Pin To Net: NetName=3V3_OUT Pin=SW1-2
+Added Pin To Net: NetName=3V3_OUT Pin=SW2-2
+Added Net: Name=3V3_OUT
+Added Pin To Net: NetName=3V3_PG Pin=Q1-1
+Added Net: Name=3V3_PG
+Added Pin To Net: NetName=5V_BUS Pin=R39-2
+Added Pin To Net: NetName=5V_BUS Pin=SW3-1
+Added Net: Name=5V_BUS
+Added Pin To Net: NetName=5V_EN Pin=R44-2
+Added Net: Name=5V_EN
+Added Pin To Net: NetName=5V_IN Pin=SW?-1
+Added Net: Name=5V_IN
+Added Pin To Net: NetName=5V_LUP_BUS Pin=R40-2
+Added Pin To Net: NetName=5V_LUP_BUS Pin=SW4-1
+Added Net: Name=5V_LUP_BUS
+Added Pin To Net: NetName=5V_OUT Pin=L2-2
+Added Pin To Net: NetName=5V_OUT Pin=SW3-2
+Added Pin To Net: NetName=5V_OUT Pin=SW4-2
+Added Net: Name=5V_OUT
+Added Pin To Net: NetName=5V_PG Pin=Q2-1
+Added Net: Name=5V_PG
+Added Pin To Net: NetName=8V_BUS Pin=R41-2
+Added Pin To Net: NetName=8V_BUS Pin=SW5-1
+Added Net: Name=8V_BUS
+Added Pin To Net: NetName=8V_EN Pin=R?-2
+Added Net: Name=8V_EN
+Added Pin To Net: NetName=8V_IN Pin=SW?-1
+Added Net: Name=8V_IN
+Added Pin To Net: NetName=8V_OUT Pin=SW5-2
+Added Net: Name=8V_OUT
+Added Pin To Net: NetName=8V_PG Pin=Q3-1
+Added Net: Name=8V_PG
+Added Pin To Net: NetName=GND Pin=D4-C
+Added Pin To Net: NetName=GND Pin=D5-C
+Added Pin To Net: NetName=GND Pin=D6-C
+Added Pin To Net: NetName=GND Pin=D7-C
+Added Pin To Net: NetName=GND Pin=D8-C
+Added Pin To Net: NetName=GND Pin=D9-C
+Added Pin To Net: NetName=GND Pin=D10-C
+Added Pin To Net: NetName=GND Pin=D?-C
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=SW?-3
+Added Pin To Net: NetName=GND Pin=SW?-3
+Added Pin To Net: NetName=GND Pin=SW?-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC3_1 Pin=L1-1
+Added Net: Name=NetC3_1
+Added Net: Name=NetC3_2
+Added Net: Name=NetC6_2
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC11_1 Pin=L2-1
+Added Net: Name=NetC11_1
+Added Net: Name=NetC11_2
+Added Net: Name=NetC12_2
+Added Net: Name=NetC13_1
+Added Net: Name=NetC19_1
+Added Net: Name=NetC19_2
+Added Net: Name=NetC20_2
+Added Net: Name=NetC21_1
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD1_C Pin=D1-C
+Added Pin To Net: NetName=NetD1_C Pin=Q1-3
+Added Net: Name=NetD1_C
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD2_C Pin=D2-C
+Added Pin To Net: NetName=NetD2_C Pin=Q2-3
+Added Net: Name=NetD2_C
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetD3_C Pin=D3-C
+Added Pin To Net: NetName=NetD3_C Pin=Q3-3
+Added Net: Name=NetD3_C
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=NetD4_A Pin=R37-1
+Added Net: Name=NetD4_A
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=NetD5_A Pin=R38-1
+Added Net: Name=NetD5_A
+Added Pin To Net: NetName=NetD6_A Pin=D6-A
+Added Pin To Net: NetName=NetD6_A Pin=R39-1
+Added Net: Name=NetD6_A
+Added Pin To Net: NetName=NetD7_A Pin=D7-A
+Added Pin To Net: NetName=NetD7_A Pin=R40-1
+Added Net: Name=NetD7_A
+Added Pin To Net: NetName=NetD8_A Pin=D8-A
+Added Pin To Net: NetName=NetD8_A Pin=R41-1
+Added Net: Name=NetD8_A
+Added Pin To Net: NetName=NetD9_A Pin=D9-A
+Added Pin To Net: NetName=NetD9_A Pin=R43-2
+Added Net: Name=NetD9_A
+Added Pin To Net: NetName=NetD10_A Pin=D10-A
+Added Pin To Net: NetName=NetD10_A Pin=R45-2
+Added Net: Name=NetD10_A
+Added Pin To Net: NetName=NetD?_A Pin=D?-A
+Added Pin To Net: NetName=NetD?_A Pin=R?-2
+Added Net: Name=NetD?_A
+Added Net: Name=NetR1_1
+Added Net: Name=NetR3_1
+Added Net: Name=NetR5_1
+Added Net: Name=NetR6A_1
+Added Net: Name=NetR7_1
+Added Net: Name=NetR9_1
+Added Net: Name=NetR11_1
+Added Net: Name=NetR13_1
+Added Net: Name=NetR15_1
+Added Net: Name=NetR18_1
+Added Net: Name=NetR19_1
+Added Net: Name=NetR20_1
+Added Net: Name=NetR23_1
+Added Net: Name=NetR24_1
+Added Net: Name=NetR28_1
+Added Net: Name=NetR29_1
+Added Pin To Net: NetName=NetR42_1 Pin=R42-1
+Added Pin To Net: NetName=NetR42_1 Pin=R43-1
+Added Pin To Net: NetName=NetR42_1 Pin=SW?-2
+Added Net: Name=NetR42_1
+Added Pin To Net: NetName=NetR44_1 Pin=R44-1
+Added Pin To Net: NetName=NetR44_1 Pin=R45-1
+Added Pin To Net: NetName=NetR44_1 Pin=SW?-2
+Added Net: Name=NetR44_1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=SW?-2
+Added Net: Name=NetR?_1
+Add Class Member: Failed to add class member : Component C1 22uF
+Add Class Member: Failed to add class member : Component C2 100uF
+Add Class Member: Failed to add class member : Component C3 1uF
+Add Class Member: Failed to add class member : Component C4 22uF
+Add Class Member: Failed to add class member : Component C5 22uF
+Add Class Member: Failed to add class member : Component C6 10pF
+Add Class Member: Failed to add class member : Component C7 1nF
+Add Class Member: Failed to add class member : Component C8 6.8nF
+Add Class Member: Failed to add class member : Component C9 100uF
+Add Class Member: Failed to add class member : Component C10 22uF
+Add Class Member: Failed to add class member : Component C11 1uF
+Add Class Member: Failed to add class member : Component C12 10pF
+Add Class Member: Failed to add class member : Component C13 6.8nF
+Add Class Member: Failed to add class member : Component C14 1nF
+Add Class Member: Failed to add class member : Component C15 22uF
+Add Class Member: Failed to add class member : Component C16 22uF
+Add Class Member: Failed to add class member : Component C17 22uF
+Add Class Member: Failed to add class member : Component C18 100uF
+Add Class Member: Failed to add class member : Component C19 1uF
+Add Class Member: Failed to add class member : Component C20 10pF
+Add Class Member: Failed to add class member : Component C21 6.8nF
+Add Class Member: Failed to add class member : Component C22 1nF
+Add Class Member: Failed to add class member : Component C23 22uF
+Add Class Member: Failed to add class member : Component C24 22uF
+Added Member To Class: ClassName=Overview Member=Component D1 LTST-C190 Series
+Added Member To Class: ClassName=Overview Member=Component D2 LTST-C190 Series
+Added Member To Class: ClassName=Overview Member=Component D3 LTST-C190 Series
+Added Member To Class: ClassName=Overview Member=Component D4 LTST-C190 Series
+Added Member To Class: ClassName=Overview Member=Component D5 LTST-C190 Series
+Added Member To Class: ClassName=Overview Member=Component D6 LTST-C190 Series
+Added Member To Class: ClassName=Overview Member=Component D7 LTST-C190 Series
+Added Member To Class: ClassName=Overview Member=Component D8 LTST-C190 Series
+Added Member To Class: ClassName=Overview Member=Component D9 LTST-C190 Series
+Added Member To Class: ClassName=Overview Member=Component D10 LTST-C190 Series
+Added Member To Class: ClassName=Overview Member=Component D? LTST-C190 Series
+Added Member To Class: ClassName=Overview Member=Component L1 SPM6530T-3R3M100
+Added Member To Class: ClassName=Overview Member=Component L2 SPM6530T-4R7M100
+Added Member To Class: ClassName=Overview Member=Component Q1 MMBT619
+Added Member To Class: ClassName=Overview Member=Component Q2 MMBT619
+Added Member To Class: ClassName=Overview Member=Component Q3 MMBT619
+Add Class Member: Failed to add class member : Component R1 20
+Add Class Member: Failed to add class member : Component R2 200
+Add Class Member: Failed to add class member : Component R3 20k
+Add Class Member: Failed to add class member : Component R4 20k
+Add Class Member: Failed to add class member : Component R5 10k
+Add Class Member: Failed to add class member : Component R6A 12k
+Add Class Member: Failed to add class member : Component R6B 1k
+Add Class Member: Failed to add class member : Component R7 20
+Add Class Member: Failed to add class member : Component R8 200
+Add Class Member: Failed to add class member : Component R9 20k
+Add Class Member: Failed to add class member : Component R10 20k
+Add Class Member: Failed to add class member : Component R11 15k
+Add Class Member: Failed to add class member : Component R13 20
+Add Class Member: Failed to add class member : Component R14 200
+Add Class Member: Failed to add class member : Component R15 20k
+Add Class Member: Failed to add class member : Component R16 20k
+Add Class Member: Failed to add class member : Component R17 13k
+Add Class Member: Failed to add class member : Component R18 20k
+Add Class Member: Failed to add class member : Component R19 330k
+Add Class Member: Failed to add class member : Component R20 270k
+Add Class Member: Failed to add class member : Component R21 3.9k
+Add Class Member: Failed to add class member : Component R22 10k
+Add Class Member: Failed to add class member : Component R23 330k
+Add Class Member: Failed to add class member : Component R24 270k
+Add Class Member: Failed to add class member : Component R25 3.9k
+Add Class Member: Failed to add class member : Component R26 33k
+Add Class Member: Failed to add class member : Component R27 10k
+Add Class Member: Failed to add class member : Component R28 330k
+Add Class Member: Failed to add class member : Component R29 270k
+Add Class Member: Failed to add class member : Component R30 3.9k
+Add Class Member: Failed to add class member : Component R31 *
+Add Class Member: Failed to add class member : Component R32 *
+Add Class Member: Failed to add class member : Component R33 *
+Add Class Member: Failed to add class member : Component R34 *
+Add Class Member: Failed to add class member : Component R35 *
+Add Class Member: Failed to add class member : Component R36 *
+Added Member To Class: ClassName=Overview Member=Component R37 *
+Added Member To Class: ClassName=Overview Member=Component R38 *
+Added Member To Class: ClassName=Overview Member=Component R39 *
+Added Member To Class: ClassName=Overview Member=Component R40 *
+Added Member To Class: ClassName=Overview Member=Component R41 *
+Added Member To Class: ClassName=Overview Member=Component R42 *
+Added Member To Class: ClassName=Overview Member=Component R43 *
+Added Member To Class: ClassName=Overview Member=Component R44 *
+Added Member To Class: ClassName=Overview Member=Component R45 *
+Added Member To Class: ClassName=Overview Member=Component R? *
+Added Member To Class: ClassName=Overview Member=Component R? *
+Added Member To Class: ClassName=Overview Member=Component SW1 ANT11SF1CQE
+Added Member To Class: ClassName=Overview Member=Component SW2 ANT11SF1CQE
+Added Member To Class: ClassName=Overview Member=Component SW3 ANT11SF1CQE
+Added Member To Class: ClassName=Overview Member=Component SW4 ANT11SF1CQE
+Added Member To Class: ClassName=Overview Member=Component SW5 ANT11SF1CQE
+Added Member To Class: ClassName=Overview Member=Component SW? ANT11SF1CQE
+Added Member To Class: ClassName=Overview Member=Component SW? ANT11SF1CQE
+Added Member To Class: ClassName=Overview Member=Component SW? ANT11SF1CQE
+Add Class Member: Failed to add class member : Component U1 MP2393GTL-Z
+Add Class Member: Failed to add class member : Component U2 MP2393GTL-Z
+Add Class Member: Failed to add class member : Component U? MP2393GTL-Z
